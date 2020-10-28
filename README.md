@@ -1,2 +1,2 @@
 # shrfileprv
-Private Shared Repository
+ Shared Repository
